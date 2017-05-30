@@ -1,7 +1,111 @@
 <div class="page-header">
-    <h1>Congratulations!</h1>
+    <h1>shahid!</h1>
 </div>
 
-<p>You're now flying with Phalcon. Great things are about to happen!</p>
+<div class="container">
 
-<p>This page is located at <code>views/index/index.volt</code></p>
+    <div id="signupbox" style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <div class="panel-title">Sign Up</div>
+            </div>
+            <div class="panel-body" >
+
+
+                    <form  class="form-horizontal" method="post" >
+
+                        <div class="form-group">
+                            <label for="error_description"  class="control-label col-md-6">Description</label>
+                            <div class="controls col-md-6 "  style="margin-bottom: 10px">
+                                <textarea id="error_description" class="form-control" name="error_description"></textarea>
+                            </div>
+                        </div>
+                        <div  class="form-group">
+                            <label for="site_area" class="control-label col-md-6  "> Where is the problem occuring? </label>
+                            <div class="controls col-md-6">
+                                <select id="site_area" class="form-control" name="site_area" style="margin-bottom:10px;">
+                                    <option value="home_page">Home Page</option>
+                                    <option value="payment_page">Payments Page</option>
+                                    <option value="contact_page">Contact Page</option>
+                                    <option value="blackbizui">Back Office</option>
+                                    <option value="listing_page">In a listing</option>
+                                    <option value="listing_group">Listing Group</option>
+                                    <option value="uncategorized">Other</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+                        <div  class="form-group">
+                            <label for="operating_system" class="control-label col-md-6  ">What operating system? </label>
+                            <div class="controls col-md-6">
+                                <select id="operating_system" class="form-control" name="operating_system" style="margin-bottom:10px;">
+                                    <option value="macintosh">Mac OS</option>
+                                    <option value="windows_10">Windows 10</option>
+                                    <option value="windows_8">Windows 8</option>
+                                    <option value="windows_7">Windows 7</option>
+                                    <option value="linux">Linux</option>
+                                    <option value="ubuntu">Ubuntu</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div  class="form-group">
+                            <label for="user_agent" class="control-label col-md-6  ">What web browser? </label>
+                            <div class="controls col-md-6">
+                                <select id="user_agent" class="form-control" name="user_agent" style="margin-bottom:10px;">
+                                        <option value="safari">Safari</option>
+                                        <option value="explorer">Internet Exploror</option>
+                                        <option value="microsoft_edge">Micorsoft Edge</option>
+                                        <option value="google">Google Chrome</option>
+                                        <option value="mozilla">Mozilla Firefox</option>
+                                        <option value="opera">Opera</option>
+                                        <option value="dolphin">Dolphin</option>
+                                    </select>
+                            </div>
+                        </div>
+
+                        <div  class="form-group ">
+                            <label for="html_link" class="control-label col-md-6">Please provide a link</label>
+                            <div class="controls col-md-6">
+                                <input class="input-md form-control" id="html_link" name="html_link"  style="margin-bottom: 10px" type="text" />
+                            </div>
+                        </div>
+
+                        <div  class="form-group">
+                            <label for="error_message" class="control-label col-md-6">Please provide the error message if available</label>
+                            <div class="controls col-md-6">
+                                <input class="input-md form-control" id="error_message" name="error_message"  style="margin-bottom: 10px" type="text" />
+                            </div>
+                        </div>
+
+
+                        <div  class="form-group">
+                            <label for="submission_date" class="control-label col-md-6">Submission Date</label>
+                            <div class="controls col-md-6">
+
+                                <input id="hidden" class="input-md form-control" disabled name="submission_date" value="<?=date("M j, Y - g:i"); ?>" style="margin-bottom: 10px" />
+                            </div>
+                        </div>
+
+
+                        <div class="form-group">
+                            <div class="aab controls col-md-6"></div>
+                            <div class="controls col-md-6">
+                                <input type="submit" name="Signup" value="Please Review" class="btn btn-primary btn btn-info" id="review" />
+
+                            </div>
+                        </div>
+
+                    </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+</div>
