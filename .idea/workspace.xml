@@ -2,570 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9b7d811-f998-4ae2-af3c-eaf1a64e86ba" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\app\views\index.volt" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\app\views\index\index.volt" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\src\CallbackFilter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\src\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\tests\FilterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\tests\FunTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\clue\stream-filter\tests\FunZlibTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_files.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\autoload_static.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\composer\installed.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\UPGRADING.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Client.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\ClientInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Cookie\CookieJar.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Cookie\CookieJarInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Cookie\FileCookieJar.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Cookie\SessionCookieJar.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Cookie\SetCookie.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\BadResponseException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\ClientException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\ConnectException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\GuzzleException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\SeekException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\ServerException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\TooManyRedirectsException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Exception\TransferException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\HandlerStack.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\CurlFactoryInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\CurlHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\CurlMultiHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\EasyHandle.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\MockHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\Proxy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Handler\StreamHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\MessageFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Middleware.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\Pool.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\PrepareBodyMiddleware.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\RedirectMiddleware.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\RequestOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\RetryMiddleware.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\TransferStats.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\UriTemplate.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\guzzle\src\functions_include.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\AggregateException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\CancellationException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\Coroutine.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\EachPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\FulfilledPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\Promise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\PromiseInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\PromisorInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\RejectedPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\RejectionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\TaskQueue.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\TaskQueueInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\promises\src\functions_include.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\AppendStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\BufferStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\CachingStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\DroppingStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\FnStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\InflateStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\LazyOpenStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\LimitStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\MessageTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\MultipartStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\NoSeekStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\PumpStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\Request.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\Response.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\ServerRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\Stream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\StreamDecoratorTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\StreamWrapper.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\UploadedFile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\Uri.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\UriNormalizer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\UriResolver.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\functions.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\guzzlehttp\psr7\src\functions_include.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\.php_cs" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\.styleci.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\AbstractApi.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\AcceptHeaderTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\ApiInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Authorizations.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Emails.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Followers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Memberships.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Notifications.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\PublicKeys.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Starring.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\CurrentUser\Watchers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Deployment.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Enterprise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Enterprise\License.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Enterprise\ManagementConsole.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Enterprise\Stats.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Enterprise\UserAdmin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Gist\Comments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Gists.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData\Blobs.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData\Commits.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData\References.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData\Tags.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GitData\Trees.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\GraphQL.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Integrations.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue\Assignees.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue\Comments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue\Events.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue\Labels.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Issue\Milestones.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Markdown.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Meta.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Miscellaneous\Emojis.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Miscellaneous\Gitignore.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Notification.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Organization.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Organization\Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Organization\Members.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Organization\Projects.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Organization\Teams.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Project\AbstractProjectApi.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Project\Cards.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Project\Columns.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\PullRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\PullRequest\Comments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\PullRequest\Review.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\PullRequest\ReviewRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\RateLimit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repo.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Assets.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Collaborators.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Comments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Commits.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Contents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\DeployKeys.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Downloads.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Forks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Labels.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Projects.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Protection.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Releases.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Stargazers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Statuses.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Repository\Traffic.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\Search.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Api\User.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Client.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\ApiLimitExceedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\BadMethodCallException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\ErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\ExceptionInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\MissingArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\RuntimeException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\TwoFactorAuthenticationRequiredException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\Exception\ValidationFailedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Builder.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Message\ResponseMediator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Plugin\Authentication.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Plugin\GithubExceptionThrower.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Plugin\History.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\HttpClient\Plugin\PathPrepend.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\ResultPager.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\knplabs\github-api\lib\Github\ResultPagerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\src\CachePlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\src\Cache\Generator\CacheKeyGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\src\Cache\Generator\HeaderCacheKeyGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\src\Cache\Generator\SimpleGenerator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\cache-plugin\src\Exception\RewindStreamException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\BatchClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\BatchResult.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\EmulatedHttpAsyncClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\EmulatedHttpClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\BatchException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\CircularRedirectionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\ClientErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\LoopException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\MultipleRedirectionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Exception\ServerErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\FlexibleHttpClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpAsyncClientDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpAsyncClientEmulator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpClientDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpClientEmulator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpClientRouter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\HttpMethodsClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\PluginClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\AddHostPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\AddPathPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\AuthenticationPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\BaseUriPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\ContentLengthPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\CookiePlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\DecoderPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\ErrorPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\HeaderAppendPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\HeaderDefaultsPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\HeaderRemovePlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\HeaderSetPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\HistoryPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\Journal.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\QueryDefaultsPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\RedirectPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\RequestMatcherPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\client-common\src\Plugin\RetryPlugin.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\ClassDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception\ClassInstantiationFailedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception\DiscoveryFailedException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception\NotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception\PuliUnavailableException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Exception\StrategyUnavailableException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\HttpAsyncClientDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\HttpClientDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\MessageFactoryDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\NotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Strategy\CommonClassesStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Strategy\DiscoveryStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Strategy\MockClientStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\Strategy\PuliBetaStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\StreamFactoryDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\discovery\src\UriFactoryDiscovery.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\puli.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\src\Client.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\guzzle6-adapter\src\Promise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\puli.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Exception\HttpException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Exception\NetworkException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Exception\RequestException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Exception\TransferException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\HttpAsyncClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\HttpClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Promise\HttpFulfilledPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\httplug\src\Promise\HttpRejectedPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\puli.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\src\MessageFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\src\RequestFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\src\ResponseFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\src\StreamFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message-factory\src\UriFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\apigen.neon" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\puli.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\AutoBasicAuth.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\BasicAuth.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\Bearer.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\Chain.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\Matching.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\QueryParam.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\RequestConditional.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Authentication\Wsse.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Builder\ResponseBuilder.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Cookie.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\CookieJar.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Decorator\MessageDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Decorator\RequestDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Decorator\ResponseDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Decorator\StreamDecorator.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\ChunkStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\CompressStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\DechunkStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\DecompressStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\DeflateStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\Filter\Chunk.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\FilteredStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\GzipDecodeStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\GzipEncodeStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Encoding\InflateStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Formatter\CurlCommandFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Formatter\FullHttpMessageFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Formatter\SimpleFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\MessageFactory\DiactorosMessageFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\MessageFactory\GuzzleMessageFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\MessageFactory\SlimMessageFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\RequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\RequestMatcher\CallbackRequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\RequestMatcher\RegexRequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\RequestMatcher\RequestMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\StreamFactory\DiactorosStreamFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\StreamFactory\GuzzleStreamFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\StreamFactory\SlimStreamFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\Stream\BufferedStream.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\UriFactory\DiactorosUriFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\UriFactory\GuzzleUriFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\UriFactory\SlimUriFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\message\src\filters.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\src\FulfilledPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\src\Promise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\php-http\promise\src\RejectedPromise.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\src\CacheException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\src\CacheItemInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\src\CacheItemPoolInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\cache\src\InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\MessageInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\RequestInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\ResponseInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\ServerRequestInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\StreamInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\UploadedFileInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\psr\http-message\src\UriInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\AccessException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\ExceptionInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\InvalidOptionsException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\MissingOptionsException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\NoSuchOptionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\OptionDefinitionException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Exception\UndefinedOptionsException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Options.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\OptionsResolver.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\Tests\OptionsResolverTest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\symfony\options-resolver\phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\GitHubClient.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\GitHubClientBase.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\GitHubClientException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\GitHubObject.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\GitHubService.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubBlob.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubBranch.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubBranches.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitComment.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitCommit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitCommitAuthor.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitCommitCommitter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitCommitTree.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitComparison.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubCommitParents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubContentCrud.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubContents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubContributor.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubDownload.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeeds.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksCurrentUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksCurrentUserActor.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksCurrentUserOrganization.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksCurrentUserPublic.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksTimeline.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFeedsLinksUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFile.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullCommit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullCommitFiles.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullCommitStats.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullGist.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullIssueEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullOrg.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullPull.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullRepo.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullTeam.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubFullUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGist.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGistComment.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGistForksForks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGistHistoryHistory.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGitCommit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGitCommitAuthor.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGitCommitCommitter.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGitCommitParents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGitCommitTree.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGittag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGittagObject.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubGittagTagger.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubHook.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubIssue.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubIssueComment.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubIssueEvent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubIssuePullRequest.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubLabel.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubMilestone.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubOauthAccess.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubOauthAccessApp.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubOauthAccessWithUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubOrg.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPrivateUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPublicKey.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPull.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPullBranch.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPullComment.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPullCommentLinks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubPullLinks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubReadmeContent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRef.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRefObject.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRepo.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRepoContent.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRepoStatsCommitActivity.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRepoStatsContributors.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubRepoSubscription.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubReposRelease.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubReposReleaseAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubSimplePublicKey.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubSimpleRepo.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubStatus.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubSubscription.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTag.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTeam.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTemplate.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTemplates.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubThread.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubThreadSubject.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTree.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubTreeExtra.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\objects\GitHubUser.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivity.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityEvents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityEventsTypes.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityFeeds.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityNotifications.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivitySettings.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityStarring.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubActivityWatching.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubChangelog.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGists.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGistsComments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGit.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitBlobs.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitCommits.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitImport.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitRefs.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitTags.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitTrees.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubGitignore.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssues.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssuesAssignees.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssuesComments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssuesEvents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssuesLabels.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubIssuesMilestones.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubLibraries.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubMarkdown.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubMedia.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubMeta.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubOauth.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubOrgs.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubOrgsMembers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubOrgsRepos.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubOrgsTeams.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubPulls.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubPullsComments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubRepos.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposCollaborators.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposComments.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposCommits.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposContents.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposDownloads.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposForks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposHooks.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposKeys.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposMerging.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposReleases.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposReleasesAssets.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposStatistics.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubReposStatuses.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubSearch.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubUsers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubUsersEmails.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubUsersFollowers.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\client\services\GitHubUsersKeys.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\source\GitHubObject.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\source\GithubClientBase.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\source\GithubClientException.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\wamp64\www\gitApp\vendor\test\source\GithubService.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/ControllerBase.php" afterPath="$PROJECT_DIR$/app/controllers/ControllerBase.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/IndexController.php" afterPath="$PROJECT_DIR$/app/controllers/IndexController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/e__wamp64_www_gitapp_app_views_index.volt.php" afterPath="$PROJECT_DIR$/cache/e__wamp64_www_gitapp_app_views_index.volt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/e__wamp64_www_gitapp_app_views_index_index.volt.php" afterPath="$PROJECT_DIR$/cache/e__wamp64_www_gitapp_app_views_index_index.volt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/router.php" afterPath="$PROJECT_DIR$/app/config/router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/index/index.phtml" afterPath="$PROJECT_DIR$/app/views/index/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services.php" afterPath="$PROJECT_DIR$/app/config/services.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gitApp.iws" />
@@ -601,10 +40,22 @@
       <file leaf-file-name="index.phtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index/index.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.225806">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state vertical-scroll-proportion="-4.2580647">
+              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/services.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2903225">
+              <caret line="85" column="22" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="22" />
+              <folding>
+                <element signature="e#7#28#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -640,20 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.935484">
-              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+            <state vertical-scroll-proportion="-0.5017065">
+              <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControllerBase.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ControllerBase.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/ControllerBase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45051193">
+            <state vertical-scroll-proportion="-8.5161295">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#7#34#0#PHP" expanded="true" />
@@ -675,9 +126,10 @@
         <option value="$PROJECT_DIR$/app/views/index.volt" />
         <option value="$PROJECT_DIR$/app/views/index/index.volt" />
         <option value="$PROJECT_DIR$/app/views/index.phtml" />
-        <option value="$PROJECT_DIR$/app/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/views/index/index.phtml" />
         <option value="$PROJECT_DIR$/app/controllers/ControllerBase.php" />
+        <option value="$PROJECT_DIR$/app/config/services.php" />
+        <option value="$PROJECT_DIR$/app/views/index/index.phtml" />
+        <option value="$PROJECT_DIR$/app/controllers/IndexController.php" />
       </list>
     </option>
   </component>
@@ -820,6 +272,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1017,6 +473,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ControllerBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5161295">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.096774">
@@ -1025,31 +491,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/app/config/services.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.935484">
-          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
-          <folding />
+        <state vertical-scroll-proportion="-3.2903225">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="22" />
+          <folding>
+            <element signature="e#7#28#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index/index.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.225806">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state vertical-scroll-proportion="-4.2580647">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ControllerBase.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45051193">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#34#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.5017065">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>

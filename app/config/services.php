@@ -7,6 +7,8 @@ use Phalcon\Mvc\View\Engine\Volt as VoltEngine;
 use Phalcon\Mvc\Model\Metadata\Memory as MetaDataAdapter;
 use Phalcon\Session\Adapter\Files as SessionAdapter;
 use Phalcon\Flash\Direct as Flash;
+use Phalcon\Flash\Direct as FlashDirect;
+use Phalcon\Flash\Session as FlashSession;
 
 /**
  * Shared configuration service
@@ -81,6 +83,16 @@ $di->setShared('db', function () {
     return $connection;
 });
 
+$di->set('flashSession', function () {
+    return new FlashSession([
+        'error' => 'alert alert-danger',
+        'success' => 'alert alert-success',
+        'notice' => 'alert alert-info',
+        'warning' => 'alert alert-warning'
+    ]);
+});
+
+// Set up the flash session service
 
 /**
  * If the configuration specify the use of metadata adapter use it or use memory otherwise

@@ -9,9 +9,9 @@ class IndexController extends ControllerBase
         //persona token
         //6636c4781e488b9471522565164a2f35e62391bb
 
-
     }
     public function gitAction(){
+        require_once('../vendor/gitclient/client/GitHubClient.php');
        $data = $_POST;
         if(!empty($data)){
        $site_area =  $data['site_area'];
@@ -26,7 +26,7 @@ class IndexController extends ControllerBase
         $body = $desc.'<br>Operation system:'.$os.'<br>User_agent:'.$user_agent.'<br>URL:'.$html_link.'<br>Date Submission:'.$date.'<br>Error message:'.$error_message;
         $title =  substr($desc, 0, 20);
 
-        require_once('../vendor/gitclient/client/GitHubClient.php');
+
         $username = 'blackbiz99';
         $password = 'LetMeIn47@$';
 
@@ -37,11 +37,11 @@ class IndexController extends ControllerBase
         $client->setCredentials($username, $password);
 
         $testIssue = $client->issues->createAnIssue($owner, $repo, $title, $body);
-        $this->flash->success("Issue Created Successfully");
-        $this->response->redirect('/');
+        $this->flashSession->success("Issue Created Successfully");
+        $this->response->redirect('');
         }else{
-            $this->flash->error("Please fill the information carefully");
-            $this->response->redirect('/');
+            $this->flashSession->error("Please fill the information carefully");
+            $this->response->redirect('');
         }
 
     }
