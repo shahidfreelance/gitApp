@@ -12,12 +12,12 @@
             <div class="panel-body" >
 
 
-                    <form  class="form-horizontal" method="post" >
+                    <form  class="form-horizontal" id="gitForm" method="post" action="<?php echo $this->url->get('git'); ?>">
 
                         <div class="form-group">
                             <label for="error_description"  class="control-label col-md-6">Description</label>
                             <div class="controls col-md-6 "  style="margin-bottom: 10px">
-                                <textarea id="error_description" class="form-control" name="error_description"></textarea>
+                                <textarea id="error_description" class="form-control" required name="error_description"></textarea>
                             </div>
                         </div>
                         <div  class="form-group">
@@ -84,7 +84,7 @@
                             <label for="submission_date" class="control-label col-md-6">Submission Date</label>
                             <div class="controls col-md-6">
 
-                                <input id="hidden" class="input-md form-control" disabled name="submission_date" value="<?=date("M j, Y - g:i"); ?>" style="margin-bottom: 10px" />
+                                <input type="text" id="submission_date" class="input-md form-control" readonly name="submission_date" value="<?=date("M j, Y - g:i"); ?>" style="margin-bottom: 10px" />
                             </div>
                         </div>
 
@@ -109,3 +109,24 @@
 
 
 </div>
+<script>
+$(document).ready(function () {
+    $("#gitForm").validate({
+        rules: {
+            "error_description": {
+                required: true,
+                minlength: 50
+            }
+        },
+        messages: {
+            "error_description": {
+                required: "Please, Provide the description."
+            }
+        },
+        submitHandler: function (form) {
+        //submit form here
+        }
+    });
+
+});
+</script>
